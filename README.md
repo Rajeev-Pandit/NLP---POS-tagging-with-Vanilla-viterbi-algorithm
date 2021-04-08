@@ -1,4 +1,4 @@
-# NLP---POS-tagging-with-Vanilla-viterbi-algorithm
+# NLP---HMM based POS-tagging
 
 Goals:
 
